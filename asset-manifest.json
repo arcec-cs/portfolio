@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c95f7ffa.chunk.css",
+    "main.js": "/portfolio/static/js/main.6ed9fb17.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6ed9fb17.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.59296fb7.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.59296fb7.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/portfolio/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ca3afd40.chunk.js": "/portfolio/static/js/2.ca3afd40.chunk.js",
+    "static/js/2.ca3afd40.chunk.js.map": "/portfolio/static/js/2.ca3afd40.chunk.js.map",
+    "static/js/3.e1516795.chunk.js": "/portfolio/static/js/3.e1516795.chunk.js",
+    "static/js/3.e1516795.chunk.js.map": "/portfolio/static/js/3.e1516795.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/portfolio/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.c95f7ffa.chunk.css.map": "/portfolio/static/css/main.c95f7ffa.chunk.css.map",
+    "static/js/2.ca3afd40.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ca3afd40.chunk.js.LICENSE.txt",
+    "static/media/browser.ed66b73d.svg": "/portfolio/static/media/browser.ed66b73d.svg",
+    "static/media/css.2e030f0b.svg": "/portfolio/static/media/css.2e030f0b.svg",
+    "static/media/database.4d2e79e8.svg": "/portfolio/static/media/database.4d2e79e8.svg",
+    "static/media/express.632d3c32.svg": "/portfolio/static/media/express.632d3c32.svg",
+    "static/media/PortfolioPage.css": "/portfolio/static/media/linkedin.74888ab8.svg",
+    "static/media/html.9b8bf7ec.svg": "/portfolio/static/media/html.9b8bf7ec.svg",
+    "static/media/js.8dea1c95.svg": "/portfolio/static/media/js.8dea1c95.svg",
+    "static/media/knex.5052f1de.svg": "/portfolio/static/media/knex.5052f1de.svg",
+    "static/media/me.73490eb4.jpg": "/portfolio/static/media/me.73490eb4.jpg",
+    "static/media/nodejs.502737ea.svg": "/portfolio/static/media/nodejs.502737ea.svg",
+    "static/media/openBook.2d8ac63c.svg": "/portfolio/static/media/openBook.2d8ac63c.svg",
+    "static/media/postgres.b941b412.svg": "/portfolio/static/media/postgres.b941b412.svg",
+    "static/media/react.6c1d44b8.svg": "/portfolio/static/media/react.6c1d44b8.svg",
+    "static/media/server.ac4d2daa.svg": "/portfolio/static/media/server.ac4d2daa.svg",
+    "static/media/typetracer.67599b36.png": "/portfolio/static/media/typetracer.67599b36.png",
+    "static/media/typetracerMedium.8fede9cf.png": "/portfolio/static/media/typetracerMedium.8fede9cf.png",
+    "static/media/typetracerMobile.50faa11a.png": "/portfolio/static/media/typetracerMobile.50faa11a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59296fb7.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ca3afd40.chunk.js",
+    "static/css/main.c95f7ffa.chunk.css",
+    "static/js/main.6ed9fb17.chunk.js"
+  ]
+}
