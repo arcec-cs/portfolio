@@ -1,0 +1,84 @@
+/*Portfolio.css*/
+
+/* ColorScheme */
+/* bg */
+.bg-main-color-light{
+  background-color:#fffffe;
+}
+.bg-main-color-dark{
+  background-color: #0f0e17;
+}
+.bg-highlight-color{
+  background-color: #ff8906;
+}
+.bg-secondary-color{
+  background-color:#f25f4c ;
+}
+.hover-bg-highlight-color:hover{
+  background-color: #ff8906;
+}
+
+/* text */
+.main-color-light{
+  color: #fffffe;
+}
+.main-color-dark{
+  color: #0f0e17;
+}
+.paragraph-color-light{
+  color: #a7a9be;
+}
+.paragraph-color-dark{
+  color: #2e2f3e;
+}
+.higlight-color{
+  color: #ff8906;
+}
+.hover-highlight-color:hover{
+  color: #ff8906;
+}
+.secondary-color{
+  color:#f25f4c;
+}
+.tertiary-color{
+  color: #e53170;
+}
+
+/* filter */
+#iconLinkGitHub:hover{
+  filter: url('../assets/svg/github.svg#githubSvgFilterHover');
+}
+#iconLinkGitHub{
+  filter: url('../assets/svg/github.svg#githubSvgFilter');
+}
+#iconLinkLinkedIn:hover{
+  filter: url('../assets/svg/linkedin.svg#linkedinSvgFilterHover'); 
+}
+#iconLinkLinkedIn{
+  filter: url('../assets/svg/linkedin.svg#linkedinSvgFilter');
+}
+
+.skillIcon{
+  min-width: 64px;
+}
+
+p {
+  color: #2e2f3e;
+  text-indent: 1em;
+}
+
+a:focus,
+a:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+#Me {
+  max-width: 24rem; 
+  min-width: 12rem;
+}
+@media screen and (min-width: 60em) {
+  #Me {
+    min-width: 24rem; 
+  }
+}
